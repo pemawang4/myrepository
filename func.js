@@ -1,1 +1,1 @@
-this is error file
+this is corrected file
